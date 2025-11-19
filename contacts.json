@@ -1,0 +1,38 @@
+{
+    "John Smith": {
+        "phone": "+1-555-0123",
+        "email": "john.smith@email.com"
+    },
+    "Sarah Johnson": {
+        "phone": "+1-555-0456",
+        "email": "sarah.j@email.com"
+    },
+    "Mike Chen": {
+        "phone": "+1-555-0789",
+        "email": "mike.chen@company.com"
+    },
+    "Emily Davis": {
+        "phone": "+1-555-0321",
+        "email": "emily.davis@email.com"
+    },
+    "David Martinez": {
+        "phone": "+1-555-0654",
+        "email": "d.martinez@email.com"
+    },
+    "Lisa Anderson": {
+        "phone": "+1-555-0987",
+        "email": "lisa.anderson@business.com"
+    },
+    "Robert Taylor": {
+        "phone": "+1-555-0147",
+        "email": "rob.taylor@email.com"
+    },
+    "Jennifer Wilson": {
+        "phone": "+1-555-0258",
+        "email": "jen.wilson@email.com"
+    },
+    "Gaurav Lamichhane": {
+        "phone": "+977-9845904623",
+        "email": "gaurav.lamichhane1@gmail.com"
+    }
+}

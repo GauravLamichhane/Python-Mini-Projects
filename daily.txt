@@ -1,0 +1,51 @@
+🗓️ 30-Day Python Logic-Building Plan
+🧩 Week 1 — Core Logic & Flow Control
+
+Goal: Master conditionals, loops, user input, and basic math.
+
+Day	Project	Focus	Bonus Challenge
+1	Number Guessing Game	conditionals, random	Limit attempts and add hints
+2	Even–Odd / Prime Checker	loops, divisibility	Generate all primes up to N
+3	Palindrome Checker	string reversal	Handle phrases ignoring spaces
+4	Simple Calculator	arithmetic ops, input handling	Add error messages for bad input
+5	Fibonacci Generator	loops/recursion	Print first N Fibonacci numbers
+6	Pattern Printer	nested loops	Print pyramid or diamond pattern
+7	Factorial Finder	recursion vs iteration	Compare speed of both methods
+🔁 Week 2 — Strings, Lists, and Dictionaries
+
+Goal: Learn to manipulate data and structure logic clearly.
+
+Day	Project	Focus	Bonus Challenge
+8	Word Frequency Counter	dicts, file reading	Sort by highest frequency
+9	Anagram Checker	sorting, strings	Handle multi-word anagrams
+10	Password Strength Checker	regex or conditions	Suggest missing elements
+11	Remove Duplicates	lists & sets	Maintain order without using set()
+12	Matrix Operations	nested lists	Implement transpose & diagonal sum
+13	Caesar Cipher	loops, ord/chr	Add option to decrypt
+14	Mini Contact Book	dicts, CRUD	Save/load from JSON file
+⚙️ Week 3 — Algorithms & Problem Solving
+
+Goal: Apply logic with structured data and small algorithms.
+
+Day	Project	Focus	Bonus Challenge
+15	Binary Search Demo	divide & conquer	Add step visualization
+16	Sorting Visualizer (Console)	bubble/insertion sort logic	Compare two algorithms
+17	Tic-Tac-Toe (CLI)	board logic, win conditions	Add random computer opponent
+18	Hangman Game	string logic, loops	Show guessed word progress visually
+19	Sudoku Validator	nested loops, condition checking	Validate 9x9 grid
+20	Maze Solver (DFS/BFS)	recursion/queues	Generate random maze
+21	File Compressor (Huffman Coding)	trees, priority queue	Implement decompression too
+🧠 Week 4 — Advanced Logic & Mini AI
+
+Goal: Strengthen algorithmic thinking and apply creative problem-solving.
+
+Day	Project	Focus	Bonus Challenge
+22	N-Queens Problem	backtracking	Show all possible solutions
+23	Sudoku Solver	recursion, pruning	Measure backtracking calls
+24	Pathfinding (A* Algorithm)	heuristics, graph search	Visualize path in console
+25	Expression Evaluator	stacks, parsing	Add parentheses handling
+26	Mini To-Do Manager	file storage, CRUD logic	Add JSON persistence
+27	Memory Puzzle Game	random logic, match pairs	Track number of tries
+28	Mini Weather CLI	API call, error handling	Cache results locally
+29	Neural Tic-Tac-Toe	basic reinforcement logic	Track AI’s learned moves
+30	Final Project: Mix Concepts	integration	Combine 2–3 ideas (e.g., Hangman + Scoreboard + JSON storage)
